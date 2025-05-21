@@ -2,7 +2,7 @@
 ﻿# portfolio-website
 #  🌟 Yogeshwari Sakharwade - Portfolio Website
 
-![Portfolio Preview](https://i.imgur.com/JfQjK9l.png) *[Add your screenshot later]*
+![Portfolio Preview](home.png) *[Add your screenshot later]*
 
 A responsive, modern portfolio website showcasing my skills as an AI & Data Science student, built with pure HTML/CSS/JS and Tailwind CSS.
 
@@ -76,15 +76,16 @@ style.css for colors/fonts
 ```
 📸 Screenshots
 🏠 Home Section
-(home.png)
+![home](home.png)
 
 💻 Skills Section
-(skill.png)
+![skills](skill.png)
 
 📚 Projects Section
-(projects.png)
-
+![project](projects.png)
+---
 📬 Let's Connect!
+
 💌 Email: sakharwadeyogeshwari@gmail.com
 
 💼 LinkedIn: yogeshwarisakharwade
