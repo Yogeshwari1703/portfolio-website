@@ -42,7 +42,7 @@ A responsive, modern portfolio website showcasing my skills as an AI & Data Scie
 *(Upload to GitHub Pages to activate this link)*
 
 ---
-
+```
 ## 🛠️ Project Structure
 portfolio-website/
 ├── index.html # Main website file
@@ -50,7 +50,7 @@ portfolio-website/
 │ ├── css/ # Custom styles (if any)
 │ └── images/ # Portfolio screenshots
 ├── README.md # This documentation
-
+```
 
 ---
 
