@@ -1,3 +1,4 @@
+# portfolio-website
 ﻿# portfolio-website
 #  🌟 Yogeshwari Sakharwade - Portfolio Website
 
@@ -59,28 +60,29 @@ portfolio-website/
 ```bash
 git clone https://github.com/Yogeshwari1703/portfolio-website.git
 cd portfolio-website
+```
 2. Open in Browser
 Just double-click index.html or use:
-
-bash
+```
 open index.html  # Mac
 start index.html # Windows
+```
 3. Customize (Optional)
 Edit directly in:
-
+```
 index.html for content
 
-<style> tags for colors/fonts
-
+style.css for colors/fonts
+```
 📸 Screenshots
 🏠 Home Section
-Home
+(home.png)
 
 💻 Skills Section
-Skills
+(skill.png)
 
 📚 Projects Section
-Projects
+(projects.png)
 
 📬 Let's Connect!
 💌 Email: sakharwadeyogeshwari@gmail.com
